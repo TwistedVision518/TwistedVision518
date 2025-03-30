@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on self made Linux Distro<br>👯 I’m looking to collaborate on any new and cool ideas<br>🤝 I’m looking for help with Bash and C<br>🌱 I’m currently learning CyberSecurtiy<br>💬 Ask me about Anything you like.<br>
+🔭 I’m currently working on a self made Linux Distro<br>👯 I’m looking to collaborate on any new and cool ideas<br>🤝 I’m looking for help with Bash and C<br>🌱 I’m currently learning CyberSecurtiy<br>💬 Ask me about Anything you like.<br>
 
 
 ## 🌐 Socials:
